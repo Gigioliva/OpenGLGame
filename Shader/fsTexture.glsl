@@ -7,7 +7,6 @@ in vec2 fs_uv;
 
 uniform sampler2D u_texture;
 uniform vec4 lightDir;
-//uniform float ambFact;
 
 out vec4 color;
 
